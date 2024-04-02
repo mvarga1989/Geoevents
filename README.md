@@ -1,6 +1,6 @@
 # Awesome community list of geoevents. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Geoevents/pulls) or an [issue](https://github.com/mvarga1989/Geoevents/issues).
+### You wish to assist in making the list more useful, complete and accurate by adding more items? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Geoevents/pulls) or an [issue](https://github.com/mvarga1989/Geoevents/issues).
 
 ## List of continuous conferences
 - [**Institute of Navigation**](https://www.ion.org/gnss/)
