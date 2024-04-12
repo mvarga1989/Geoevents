@@ -9,8 +9,20 @@
 - [**IAG Events**](https://www.iag-aig.org/events)
 - [**EGU meetings list**](https://www.egu.eu/meetings/calendar/)
   
-### List of yearly conferences
+### List of annual conferences
 - [**3rd International Conference on Oil, Gas, and Petroleum Engineerin, IOGP 2024**](https://magnusconferences.info/oil-gas)
 - [**SIG2024: Symposium on Engineering Geodesy**](https://sig2024.en.hgd1952.hr/)
 - [**EGU2024: General Assembly**](https://www.egu24.eu/)
 - [**Gravity, Geoid and Height Systems 2024**](https://www.gghs2024.com/)
+
+
+# ION GNSS conferences
+
+- [**ION GNSS+**](https://www.ion.org/publications/browse.cfm?pub=GNSS)
+- [**Technical Meeting (ITM)**](https://www.ion.org/publications/browse.cfm?pub=ITMInternational)
+- [**IEEE/ION PLANS**](https://www.ion.org/publications/browse.cfm?pub=PLANS)
+- [**Pacific PNT**](https://www.ion.org/publications/browse.cfm?pub=PNT)
+- [**Precise Time and Time Interval Meeting (PTTI)**](https://www.ion.org/publications/browse.cfm?pub=PTTI)
+- [**Annual Meeting**](https://www.ion.org/publications/browse.cfm?pub=AM)
+- [**ION GPS**](https://www.ion.org/publications/browse.cfm?pub=GPS)
+- [**National Technical Meeting (NTM)**](https://www.ion.org/publications/browse.cfm?pub=NTM)
