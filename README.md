@@ -1,6 +1,8 @@
 # Awesome community list of geoevents. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### You wish to assist in making the list more useful, complete and accurate by adding more items? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Geoevents/pulls) or an [issue](https://github.com/mvarga1989/Geoevents/issues).
+### You wish to assist in making the list more useful, complete and accurate? Please send me an [email](mailto:mvarga1989@gmail.com).
+
+### If my content has added any value to your work, please consider to give a star and/or share on your professional social networks. Thank you!
 
 ## List of continuous conferences
 - [**Institute of Navigation**](https://www.ion.org/gnss/)
@@ -10,11 +12,11 @@
 - [**EGU meetings list**](https://www.egu.eu/meetings/calendar/)
   
 ### List of annual conferences
-- [**3rd International Conference on Oil, Gas, and Petroleum Engineerin, IOGP 2024**](https://magnusconferences.info/oil-gas)
+- [**International Conference on Oil, Gas, and Petroleum Engineerin, IOGP 2024**](https://magnusconferences.info/oil-gas)
 - [**SIG2024: Symposium on Engineering Geodesy**](https://sig2024.en.hgd1952.hr/)
-- [**EGU2024: General Assembly**](https://www.egu24.eu/)
+- [**EGU: General Assembly**](https://www.egu24.eu/)
 - [**Gravity, Geoid and Height Systems 2024**](https://www.gghs2024.com/)
-
+- [**International Colloquium on Scientific and Fundamental Aspects of GNSS, European Space Agency (ESA)**](https://www.gghs2024.com/)
 
 # ION GNSS conferences
 
